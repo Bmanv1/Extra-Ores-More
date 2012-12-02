@@ -1,4 +1,4 @@
-Emerald-Tools
+Extra-Ores-More
 =============
 
-Now there's a use for emeralds.
+Adds a bunch of extra ores + more.
